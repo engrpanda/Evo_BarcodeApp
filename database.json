@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-19T16:38:36.6312704\u002B08:00",
-  "LastSynced": "2026-03-19T16:38:13.9742571\u002B08:00",
+  "LastUpdated": "2026-03-19T16:47:29.0058372\u002B08:00",
+  "LastSynced": "2026-03-19T16:47:06.5412353\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -147,6 +147,9 @@
       "ProductCenterAlign": false,
       "ProductWordWrap": false,
       "RightDateFormat": 0,
+      "Custom1DateFormat": 0,
+      "Custom2DateFormat": 0,
+      "Custom3DateFormat": 0,
       "LastFormat": 128
     },
     "EXPO HOME DEPOT": {
@@ -290,6 +293,9 @@
       "ProductCenterAlign": false,
       "ProductWordWrap": false,
       "RightDateFormat": 0,
+      "Custom1DateFormat": 0,
+      "Custom2DateFormat": 0,
+      "Custom3DateFormat": 0,
       "LastFormat": 128
     },
     "WILCON TEST": {
@@ -433,6 +439,9 @@
       "ProductCenterAlign": false,
       "ProductWordWrap": false,
       "RightDateFormat": 0,
+      "Custom1DateFormat": 0,
+      "Custom2DateFormat": 0,
+      "Custom3DateFormat": 0,
       "LastFormat": 128
     },
     "TRUE VALUE TEST": {
@@ -576,6 +585,9 @@
       "ProductCenterAlign": false,
       "ProductWordWrap": false,
       "RightDateFormat": 0,
+      "Custom1DateFormat": 0,
+      "Custom2DateFormat": 0,
+      "Custom3DateFormat": 0,
       "LastFormat": 16
     },
     "HANDYMAN 324736": {
@@ -719,6 +731,9 @@
       "ProductCenterAlign": false,
       "ProductWordWrap": false,
       "RightDateFormat": 0,
+      "Custom1DateFormat": 0,
+      "Custom2DateFormat": 0,
+      "Custom3DateFormat": 0,
       "LastFormat": 16
     },
     "1x1 test": {
@@ -862,6 +877,9 @@
       "ProductCenterAlign": false,
       "ProductWordWrap": false,
       "RightDateFormat": 0,
+      "Custom1DateFormat": 0,
+      "Custom2DateFormat": 0,
+      "Custom3DateFormat": 0,
       "LastFormat": 128
     },
     "test2": {
@@ -1005,6 +1023,9 @@
       "ProductCenterAlign": true,
       "ProductWordWrap": true,
       "RightDateFormat": 1,
+      "Custom1DateFormat": 0,
+      "Custom2DateFormat": 0,
+      "Custom3DateFormat": 0,
       "LastFormat": 128
     }
   },
