@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-19T15:10:10.7981264\u002B08:00",
-  "LastSynced": "2026-03-19T14:50:25.4841683\u002B08:00",
+  "LastUpdated": "2026-03-19T15:43:32.9278307\u002B08:00",
+  "LastSynced": "2026-03-19T15:43:08.7167383\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -144,6 +144,9 @@
       "ProductFontFamily": "Arial",
       "ProductBold": true,
       "ProductFill": 0,
+      "ProductCenterAlign": false,
+      "ProductWordWrap": false,
+      "RightDateFormat": 0,
       "LastFormat": 128
     },
     "EXPO HOME DEPOT": {
@@ -284,6 +287,9 @@
       "ProductFontFamily": "Arial",
       "ProductBold": false,
       "ProductFill": 0,
+      "ProductCenterAlign": false,
+      "ProductWordWrap": false,
+      "RightDateFormat": 0,
       "LastFormat": 128
     },
     "WILCON TEST": {
@@ -424,6 +430,9 @@
       "ProductFontFamily": "Arial",
       "ProductBold": true,
       "ProductFill": 0,
+      "ProductCenterAlign": false,
+      "ProductWordWrap": false,
+      "RightDateFormat": 0,
       "LastFormat": 128
     },
     "TRUE VALUE TEST": {
@@ -564,6 +573,9 @@
       "ProductFontFamily": "Arial",
       "ProductBold": true,
       "ProductFill": 0,
+      "ProductCenterAlign": false,
+      "ProductWordWrap": false,
+      "RightDateFormat": 0,
       "LastFormat": 16
     },
     "HANDYMAN 324736": {
@@ -704,6 +716,9 @@
       "ProductFontFamily": "Arial",
       "ProductBold": true,
       "ProductFill": 0,
+      "ProductCenterAlign": false,
+      "ProductWordWrap": false,
+      "RightDateFormat": 0,
       "LastFormat": 16
     },
     "1x1 test": {
@@ -844,6 +859,9 @@
       "ProductFontFamily": "Arial",
       "ProductBold": true,
       "ProductFill": 0,
+      "ProductCenterAlign": false,
+      "ProductWordWrap": false,
+      "RightDateFormat": 0,
       "LastFormat": 128
     }
   },
@@ -855,7 +873,10 @@
         "PrintDescription": "Print Description",
         "BasePrice": "BasePrice",
         "Copies": "Quantity",
-        "RightLabel": "DateField"
+        "RightLabel": "DateField",
+        "Custom1": "Item",
+        "Custom2": "StoreName",
+        "Custom3": "To Location"
       },
       "LastPresetName": "WILCON TEST"
     },
