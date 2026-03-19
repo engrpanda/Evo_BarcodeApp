@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-19T08:08:29.5059402\u002B08:00",
-  "LastSynced": "2026-03-19T08:02:24.9124960\u002B08:00",
+  "LastUpdated": "2026-03-19T08:47:06.8919437\u002B08:00",
+  "LastSynced": "2026-03-19T08:08:30.9236493\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -872,5 +872,5 @@
       "LastPresetName": "WILCON TEST"
     }
   },
-  "LastMappingType": "WithoutWave"
+  "LastMappingType": "WithWave"
 }
