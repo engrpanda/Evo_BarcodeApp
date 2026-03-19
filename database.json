@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-19T09:06:02.7998602\u002B08:00",
-  "LastSynced": "2026-03-19T09:05:11.6377711\u002B08:00",
+  "LastUpdated": "2026-03-19T09:09:46.3834967\u002B08:00",
+  "LastSynced": "2026-03-19T09:06:04.9540451\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -866,10 +866,13 @@
         "Barcode": "Barcode",
         "PrintDescription": "Print Description",
         "BasePrice": "BasePrice",
-        "Copies": "Quantity"
+        "Copies": "Quantity",
+        "Custom1": "BasePrice",
+        "Custom2": "QuantityFilfilled",
+        "Custom3": "Print Description"
       },
-      "LastPresetName": "WILCON TEST"
+      "LastPresetName": ""
     }
   },
-  "LastMappingType": "WithWave"
+  "LastMappingType": "WithoutWave"
 }
