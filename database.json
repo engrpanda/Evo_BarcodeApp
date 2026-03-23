@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-23T13:34:22.7541255\u002B08:00",
-  "LastSynced": "2026-03-23T13:33:57.1194214\u002B08:00",
+  "LastUpdated": "2026-03-23T13:35:23.8875246\u002B08:00",
+  "LastSynced": "2026-03-23T13:34:24.7149444\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1103,7 +1103,29 @@
         "Custom10": "Document Number"
       },
       "LastPresetName": "HANDYMAN 324736"
+    },
+    "EXPO HOME DEPOT|WithWave": {
+      "Name": "EXPO HOME DEPOT|WithWave",
+      "ColumnMappings": {
+        "Barcode": "Barcode",
+        "PrintDescription": "Type",
+        "BasePrice": "BasePrice",
+        "Copies": "Document Number",
+        "RightLabel": "DateField",
+        "LeftLabel": "Quantity",
+        "Custom1": "Group",
+        "Custom2": "Group",
+        "Custom3": "Group",
+        "Custom4": "Group",
+        "Custom5": "Group",
+        "Custom6": "Group",
+        "Custom7": "Group",
+        "Custom8": "Group",
+        "Custom9": "Group",
+        "Custom10": "Group"
+      },
+      "LastPresetName": "EXPO HOME DEPOT"
     }
   },
-  "LastMappingType": "WithWave"
+  "LastMappingType": "EXPO HOME DEPOT|WithWave"
 }
