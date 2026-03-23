@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-23T13:32:39.6275301\u002B08:00",
-  "LastSynced": "2026-03-23T13:31:35.3356589\u002B08:00",
+  "LastUpdated": "2026-03-23T13:33:55.3809498\u002B08:00",
+  "LastSynced": "2026-03-23T13:32:41.5297745\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1038,16 +1038,9 @@
         "BasePrice": "BasePrice",
         "Copies": "Document Number",
         "RightLabel": "DateField",
-        "LeftLabel": "Quantity",
-        "Custom1": "Item",
-        "Custom2": "StoreName",
-        "Custom3": "To Location",
-        "Custom4": "Type",
-        "Custom7": "Created From",
-        "Custom8": "Created From",
-        "Custom10": "Document Number"
+        "LeftLabel": "Quantity"
       },
-      "LastPresetName": "test2"
+      "LastPresetName": "TRUE VALUE TEST"
     },
     "WithoutWave": {
       "Name": "WithoutWave",
@@ -1082,7 +1075,7 @@
       "LastPresetName": "test2"
     },
     "TRUE VALUE TEST|WithWave": {
-      "Name": "TRUE VALUE TEST|WithWave",
+      "Name": "WithWave",
       "ColumnMappings": {
         "Barcode": "Barcode",
         "PrintDescription": "Type",
@@ -1094,5 +1087,5 @@
       "LastPresetName": "TRUE VALUE TEST"
     }
   },
-  "LastMappingType": "TRUE VALUE TEST|WithWave"
+  "LastMappingType": "WithWave"
 }
