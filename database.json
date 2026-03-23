@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-23T13:33:55.3809498\u002B08:00",
-  "LastSynced": "2026-03-23T13:32:41.5297745\u002B08:00",
+  "LastUpdated": "2026-03-23T13:34:22.7541255\u002B08:00",
+  "LastSynced": "2026-03-23T13:33:57.1194214\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1038,9 +1038,12 @@
         "BasePrice": "BasePrice",
         "Copies": "Document Number",
         "RightLabel": "DateField",
-        "LeftLabel": "Quantity"
+        "LeftLabel": "Quantity",
+        "Custom7": "Created From",
+        "Custom8": "Created From",
+        "Custom10": "Document Number"
       },
-      "LastPresetName": "TRUE VALUE TEST"
+      "LastPresetName": "HANDYMAN 324736"
     },
     "WithoutWave": {
       "Name": "WithoutWave",
@@ -1085,6 +1088,21 @@
         "LeftLabel": "Quantity"
       },
       "LastPresetName": "TRUE VALUE TEST"
+    },
+    "HANDYMAN 324736|WithWave": {
+      "Name": "WithWave",
+      "ColumnMappings": {
+        "Barcode": "Barcode",
+        "PrintDescription": "Type",
+        "BasePrice": "BasePrice",
+        "Copies": "Document Number",
+        "RightLabel": "DateField",
+        "LeftLabel": "Quantity",
+        "Custom7": "Created From",
+        "Custom8": "Created From",
+        "Custom10": "Document Number"
+      },
+      "LastPresetName": "HANDYMAN 324736"
     }
   },
   "LastMappingType": "WithWave"
