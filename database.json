@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-23T13:28:04.5439427\u002B08:00",
-  "LastSynced": "2026-03-23T13:27:44.4137454\u002B08:00",
+  "LastUpdated": "2026-03-23T13:29:20.2421144\u002B08:00",
+  "LastSynced": "2026-03-23T13:28:06.2346317\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1056,7 +1056,7 @@
       "LastPresetName": "test2"
     },
     "test2|WithWave": {
-      "Name": "WithWave",
+      "Name": "test2|WithWave",
       "ColumnMappings": {
         "Barcode": "Barcode",
         "PrintDescription": "Print Description",
@@ -1068,5 +1068,5 @@
       "LastPresetName": "test2"
     }
   },
-  "LastMappingType": "WithWave"
+  "LastMappingType": "test2|WithWave"
 }
