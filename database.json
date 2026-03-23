@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-23T13:35:23.8875246\u002B08:00",
-  "LastSynced": "2026-03-23T13:34:24.7149444\u002B08:00",
+  "LastUpdated": "2026-03-23T13:36:29.4038877\u002B08:00",
+  "LastSynced": "2026-03-23T13:35:25.7233207\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1039,11 +1039,18 @@
         "Copies": "Document Number",
         "RightLabel": "DateField",
         "LeftLabel": "Quantity",
-        "Custom7": "Created From",
-        "Custom8": "Created From",
-        "Custom10": "Document Number"
+        "Custom1": "Group",
+        "Custom2": "Group",
+        "Custom3": "Group",
+        "Custom4": "Group",
+        "Custom5": "Group",
+        "Custom6": "Group",
+        "Custom7": "Group",
+        "Custom8": "Group",
+        "Custom9": "Group",
+        "Custom10": "Group"
       },
-      "LastPresetName": "HANDYMAN 324736"
+      "LastPresetName": "EXPO HOME DEPOT"
     },
     "WithoutWave": {
       "Name": "WithoutWave",
@@ -1078,14 +1085,24 @@
       "LastPresetName": "test2"
     },
     "TRUE VALUE TEST|WithWave": {
-      "Name": "WithWave",
+      "Name": "TRUE VALUE TEST|WithWave",
       "ColumnMappings": {
         "Barcode": "Barcode",
         "PrintDescription": "Type",
         "BasePrice": "BasePrice",
         "Copies": "Document Number",
         "RightLabel": "DateField",
-        "LeftLabel": "Quantity"
+        "LeftLabel": "Bin Number",
+        "Custom1": "Bin Number",
+        "Custom2": "Bin Number",
+        "Custom3": "Bin Number",
+        "Custom4": "Bin Number",
+        "Custom5": "Bin Number",
+        "Custom6": "Bin Number",
+        "Custom7": "Bin Number",
+        "Custom8": "Bin Number",
+        "Custom9": "Bin Number",
+        "Custom10": "Bin Number"
       },
       "LastPresetName": "TRUE VALUE TEST"
     },
@@ -1105,7 +1122,7 @@
       "LastPresetName": "HANDYMAN 324736"
     },
     "EXPO HOME DEPOT|WithWave": {
-      "Name": "EXPO HOME DEPOT|WithWave",
+      "Name": "WithWave",
       "ColumnMappings": {
         "Barcode": "Barcode",
         "PrintDescription": "Type",
@@ -1127,5 +1144,5 @@
       "LastPresetName": "EXPO HOME DEPOT"
     }
   },
-  "LastMappingType": "EXPO HOME DEPOT|WithWave"
+  "LastMappingType": "TRUE VALUE TEST|WithWave"
 }
