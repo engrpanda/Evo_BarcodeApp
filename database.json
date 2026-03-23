@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-23T13:37:14.9104085\u002B08:00",
-  "LastSynced": "2026-03-23T13:36:31.4272627\u002B08:00",
+  "LastUpdated": "2026-03-23T13:43:42.5804706\u002B08:00",
+  "LastSynced": "2026-03-23T13:43:14.4298504\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1038,19 +1038,9 @@
         "BasePrice": "BasePrice",
         "Copies": "Document Number",
         "RightLabel": "DateField",
-        "LeftLabel": "Group",
-        "Custom1": "Group",
-        "Custom2": "Group",
-        "Custom3": "Group",
-        "Custom4": "Group",
-        "Custom5": "Group",
-        "Custom6": "Group",
-        "Custom7": "Group",
-        "Custom8": "Group",
-        "Custom9": "Group",
-        "Custom10": "Group"
+        "LeftLabel": "Quantity"
       },
-      "LastPresetName": "WILCON TEST"
+      "LastPresetName": "test2"
     },
     "WithoutWave": {
       "Name": "WithoutWave",
@@ -1073,14 +1063,7 @@
         "BasePrice": "BasePrice",
         "Copies": "Document Number",
         "RightLabel": "DateField",
-        "LeftLabel": "Quantity",
-        "Custom1": "Item",
-        "Custom2": "StoreName",
-        "Custom3": "To Location",
-        "Custom4": "Type",
-        "Custom7": "Created From",
-        "Custom8": "Created From",
-        "Custom10": "Document Number"
+        "LeftLabel": "Quantity"
       },
       "LastPresetName": "test2"
     },
