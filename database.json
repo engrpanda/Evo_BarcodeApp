@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-24T08:44:14.3961916\u002B08:00",
-  "LastSynced": "2026-03-24T08:41:54.5031559\u002B08:00",
+  "LastUpdated": "2026-03-24T08:44:55.9950388\u002B08:00",
+  "LastSynced": "2026-03-24T08:44:16.3163340\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1327,6 +1327,7 @@
       "ColumnMappings": {
         "Barcode": "Barcode",
         "PrintDescription": "Print Description",
+        "BasePrice": "Base Price(SRP)*",
         "Copies": "Quantity",
         "RightLabel": "Date"
       },
@@ -1443,6 +1444,7 @@
       "ColumnMappings": {
         "Barcode": "Barcode",
         "PrintDescription": "Print Description",
+        "BasePrice": "Base Price(SRP)*",
         "Copies": "Quantity",
         "RightLabel": "Date"
       },
