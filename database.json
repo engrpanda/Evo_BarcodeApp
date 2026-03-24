@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-03-24T08:41:52.4032683\u002B08:00",
-  "LastSynced": "2026-03-24T08:36:42.4748457\u002B08:00",
+  "LastUpdated": "2026-03-24T08:44:14.3961916\u002B08:00",
+  "LastSynced": "2026-03-24T08:41:54.5031559\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1177,9 +1177,9 @@
     "WILCON TEST 2": {
       "Name": "WILCON TEST 2",
       "CompanyText": "WILCON DEPOT INC",
-      "BarcodeText": "047000002186",
-      "ProductText": "LUC-TB-02 BLK",
-      "RightText": "09/03/2026 12:00:00 am",
+      "BarcodeText": "047000001762",
+      "ProductText": "LWD-PL-2G-WHT",
+      "RightText": "04/02/2025 12:00:00 am",
       "LeftText": "",
       "WidthInText": "1.25",
       "HeightInText": "1",
@@ -1314,7 +1314,7 @@
       "ProductFill": 0,
       "ProductCenterAlign": true,
       "ProductWordWrap": true,
-      "RightDateFormat": 0,
+      "RightDateFormat": 1,
       "Custom1DateFormat": 0,
       "Custom2DateFormat": 0,
       "Custom3DateFormat": 0,
