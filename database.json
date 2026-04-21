@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-04-21T10:17:39.7408710\u002B08:00",
-  "LastSynced": "2026-04-21T10:13:41.2201967\u002B08:00",
+  "LastUpdated": "2026-04-21T10:27:18.2909912\u002B08:00",
+  "LastSynced": "2026-04-21T10:17:41.5608157\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -165,9 +165,7 @@
           "PrintDescription": "Print Description",
           "BasePrice": "BasePrice",
           "Copies": "Quantity",
-          "Custom1": "Item",
-          "Custom2": "StoreName",
-          "Custom3": "To Location"
+          "RightLabel": "DateField"
         }
       }
     },
