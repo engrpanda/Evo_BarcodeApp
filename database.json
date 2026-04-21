@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-04-21T08:59:57.3559710\u002B08:00",
-  "LastSynced": "2026-04-21T08:58:53.9281546\u002B08:00",
+  "LastUpdated": "2026-04-21T10:17:39.7408710\u002B08:00",
+  "LastSynced": "2026-04-21T10:13:41.2201967\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -156,7 +156,20 @@
       "Custom1DateFormat": 0,
       "Custom2DateFormat": 0,
       "Custom3DateFormat": 0,
-      "LastFormat": 128
+      "LastFormat": 128,
+      "WithWaveMapping": {
+        "Name": "WithWave",
+        "LastPresetName": "WILCON V1",
+        "ColumnMappings": {
+          "Barcode": "Barcode",
+          "PrintDescription": "Print Description",
+          "BasePrice": "BasePrice",
+          "Copies": "Quantity",
+          "Custom1": "Item",
+          "Custom2": "StoreName",
+          "Custom3": "To Location"
+        }
+      }
     },
     "CW HOME DEPOT - SILANG 1x1.25": {
       "Name": "CW HOME DEPOT - SILANG 1x1.25",
@@ -463,194 +476,5 @@
       "LastFormat": 16
     }
   },
-  "ExcelMappings": {
-    "WithWave": {
-      "Name": "WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "PrintDescription",
-        "BasePrice": "BasePrice",
-        "Copies": "Quantity",
-        "Custom1": "DateField",
-        "Custom4": "Barcode"
-      },
-      "LastPresetName": "CW HOME DEPOT SILANG V2"
-    },
-    "WithoutWave": {
-      "Name": "WithoutWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "Print Description",
-        "BasePrice": "BasePrice",
-        "Copies": "Quantity",
-        "RightLabel": "DateField",
-        "Custom1": "Item",
-        "Custom2": "Description"
-      },
-      "LastPresetName": "test2"
-    },
-    "test2|WithWave": {
-      "Name": "WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "Print Description",
-        "BasePrice": "BasePrice",
-        "Copies": "Document Number",
-        "RightLabel": "DateField",
-        "LeftLabel": "Quantity"
-      },
-      "LastPresetName": "test2"
-    },
-    "TRUE VALUE TEST|WithWave": {
-      "Name": "WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "Type",
-        "BasePrice": "BasePrice",
-        "Copies": "Document Number",
-        "RightLabel": "DateField",
-        "LeftLabel": "Bin Number",
-        "Custom1": "Bin Number",
-        "Custom2": "Bin Number",
-        "Custom3": "Bin Number",
-        "Custom4": "Bin Number",
-        "Custom5": "Bin Number",
-        "Custom6": "Bin Number",
-        "Custom7": "Bin Number",
-        "Custom8": "Bin Number",
-        "Custom9": "Bin Number",
-        "Custom10": "Bin Number"
-      },
-      "LastPresetName": "TRUE VALUE TEST"
-    },
-    "HANDYMAN 324736|WithWave": {
-      "Name": "WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "Type",
-        "BasePrice": "BasePrice",
-        "Copies": "Document Number",
-        "RightLabel": "DateField",
-        "LeftLabel": "Quantity",
-        "Custom7": "Created From",
-        "Custom8": "Created From",
-        "Custom10": "Document Number"
-      },
-      "LastPresetName": "HANDYMAN 324736"
-    },
-    "EXPO HOME DEPOT|WithWave": {
-      "Name": "WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "Type",
-        "BasePrice": "BasePrice",
-        "Copies": "Document Number",
-        "RightLabel": "DateField",
-        "LeftLabel": "Quantity",
-        "Custom1": "Group",
-        "Custom2": "Group",
-        "Custom3": "Group",
-        "Custom4": "Group",
-        "Custom5": "Group",
-        "Custom6": "Group",
-        "Custom7": "Group",
-        "Custom8": "Group",
-        "Custom9": "Group",
-        "Custom10": "Group"
-      },
-      "LastPresetName": "EXPO HOME DEPOT"
-    },
-    "WILCON TEST|WithWave": {
-      "Name": "WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "Print Description",
-        "BasePrice": "BasePrice",
-        "Copies": "Quantity",
-        "RightLabel": "DateField"
-      },
-      "LastPresetName": "WILCON TEST"
-    },
-    "test3|WithWave": {
-      "Name": "WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "Print Description",
-        "BasePrice": "BasePrice",
-        "Copies": "Quantity",
-        "RightLabel": "DateField"
-      },
-      "LastPresetName": "test3"
-    },
-    "WILCON TEST 2|WithWave": {
-      "Name": "WILCON TEST 2|WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "Print Description",
-        "BasePrice": "BasePrice",
-        "Copies": "Quantity",
-        "RightLabel": "DateField"
-      },
-      "LastPresetName": "WILCON TEST 2"
-    },
-    "WILCON V1|WithWave": {
-      "Name": "WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "Print Description",
-        "BasePrice": "BasePrice",
-        "Copies": "Quantity",
-        "RightLabel": "DateField"
-      },
-      "LastPresetName": "WILCON V1"
-    },
-    "WILCON V2|WithWave": {
-      "Name": "WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "Print Description",
-        "BasePrice": "BasePrice",
-        "Copies": "Quantity",
-        "RightLabel": "DateField"
-      },
-      "LastPresetName": "WILCON V2"
-    },
-    "CW HOME DEPOT - SILANG|WithWave": {
-      "Name": "WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "PrintDescription",
-        "BasePrice": "BasePrice",
-        "Copies": "Quantity",
-        "Custom1": "DateField",
-        "Custom4": "Barcode"
-      },
-      "LastPresetName": "CW HOME DEPOT - SILANG"
-    },
-    "CW HOME DEPOT - SILANG 1x1.25|WithWave": {
-      "Name": "WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "PrintDescription",
-        "BasePrice": "BasePrice",
-        "Copies": "Quantity",
-        "Custom1": "DateField",
-        "Custom4": "Barcode"
-      },
-      "LastPresetName": "CW HOME DEPOT - SILANG 1x1.25"
-    },
-    "CW HOME DEPOT SILANG V2|WithWave": {
-      "Name": "CW HOME DEPOT SILANG V2|WithWave",
-      "ColumnMappings": {
-        "Barcode": "Barcode",
-        "PrintDescription": "PrintDescription",
-        "BasePrice": "BasePrice",
-        "Copies": "Quantity",
-        "Custom1": "DateField",
-        "Custom4": "Barcode"
-      },
-      "LastPresetName": "CW HOME DEPOT SILANG V2"
-    }
-  },
-  "LastMappingType": "CW HOME DEPOT SILANG V2|WithWave"
+  "LastMappingType": "WILCON V1|WithWave"
 }
