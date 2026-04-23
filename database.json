@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-04-23T13:27:29.8292532\u002B08:00",
-  "LastSynced": "2026-04-23T09:00:50.8297424\u002B08:00",
+  "LastUpdated": "2026-04-23T13:28:25.5896164\u002B08:00",
+  "LastSynced": "2026-04-23T13:27:32.1950173\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1735,15 +1735,16 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "ACE HARDWARE",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
           "BasePrice": "Base Price(SRP)*",
-          "Copies": "Quantity"
+          "Copies": "Quantity",
+          "Custom4": "Barcode"
         }
       }
     }
   },
-  "LastMappingType": "TRUE VALUE|WithoutWave"
+  "LastMappingType": "ACE HARDWARE|WithoutWave"
 }
