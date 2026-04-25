@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-04-25T11:05:10.2611896\u002B08:00",
-  "LastSynced": "2026-04-25T11:05:06.3975182\u002B08:00",
+  "LastUpdated": "2026-04-25T11:05:48.8523037\u002B08:00",
+  "LastSynced": "2026-04-25T11:05:13.2092818\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -5560,7 +5560,7 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT",
+        "LastPresetName": "WILCON DEPOT INC",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
@@ -5571,5 +5571,5 @@
       }
     }
   },
-  "LastMappingType": "WILCON DEPOT|WithoutWave"
+  "LastMappingType": "WILCON DEPOT INC|WithoutWave"
 }
