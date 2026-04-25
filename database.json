@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-04-25T11:47:36.4493235\u002B08:00",
-  "LastSynced": "2026-04-25T11:43:03.1274250\u002B08:00",
+  "LastUpdated": "2026-04-25T11:52:33.8461755\u002B08:00",
+  "LastSynced": "2026-04-25T11:47:39.5564369\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -876,11 +876,11 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "TRUE VALUE",
+        "LastPresetName": "CITI PLUS HOME DEPOT",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
+          "BasePrice": "BasePrice",
           "Copies": "Quantity"
         }
       }
@@ -5571,5 +5571,5 @@
       }
     }
   },
-  "LastMappingType": "CITI HARDWARE|WithWave"
+  "LastMappingType": "CITI PLUS HOME DEPOT|WithoutWave"
 }
