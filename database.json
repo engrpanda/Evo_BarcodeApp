@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-04-25T11:52:33.8461755\u002B08:00",
-  "LastSynced": "2026-04-25T11:47:39.5564369\u002B08:00",
+  "LastUpdated": "2026-04-25T11:53:54.6337194\u002B08:00",
+  "LastSynced": "2026-04-25T11:52:37.4193229\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -865,13 +865,12 @@
       "LastFormat": 16,
       "WithWaveMapping": {
         "Name": "WithWave",
-        "LastPresetName": "WILCON V1",
+        "LastPresetName": "CITI PLUS HOME DEPOT",
         "ColumnMappings": {
           "Barcode": "Barcode",
-          "PrintDescription": "Print Description",
+          "PrintDescription": "PrintDescription",
           "BasePrice": "BasePrice",
-          "Copies": "Quantity",
-          "RightLabel": "DateField"
+          "Copies": "Quantity"
         }
       },
       "WithoutWaveMapping": {
@@ -5571,5 +5570,5 @@
       }
     }
   },
-  "LastMappingType": "CITI PLUS HOME DEPOT|WithoutWave"
+  "LastMappingType": "CITI PLUS HOME DEPOT|WithWave"
 }
