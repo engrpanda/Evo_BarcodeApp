@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-04-25T11:35:59.3336520\u002B08:00",
-  "LastSynced": "2026-04-25T11:33:42.9949119\u002B08:00",
+  "LastUpdated": "2026-04-25T11:42:58.9892226\u002B08:00",
+  "LastSynced": "2026-04-25T11:36:02.3871913\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -4645,13 +4645,13 @@
       "LastFormat": 128,
       "WithWaveMapping": {
         "Name": "WithWave",
-        "LastPresetName": "WILCON V1",
+        "LastPresetName": "CITI HARDWARE",
         "ColumnMappings": {
           "Barcode": "Barcode",
-          "PrintDescription": "Print Description",
+          "PrintDescription": "PrintDescription",
           "BasePrice": "BasePrice",
           "Copies": "Quantity",
-          "RightLabel": "DateField"
+          "Custom1": "ItemDescription"
         }
       },
       "WithoutWaveMapping": {
@@ -5571,5 +5571,5 @@
       }
     }
   },
-  "LastMappingType": "CITI HARDWARE|WithoutWave"
+  "LastMappingType": "CITI HARDWARE|WithWave"
 }
