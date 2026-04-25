@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-04-25T11:32:17.7727413\u002B08:00",
-  "LastSynced": "2026-04-25T11:27:17.3466140\u002B08:00",
+  "LastUpdated": "2026-04-25T11:33:39.7362569\u002B08:00",
+  "LastSynced": "2026-04-25T11:32:20.5208183\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1045,13 +1045,12 @@
       "LastFormat": 16384,
       "WithWaveMapping": {
         "Name": "WithWave",
-        "LastPresetName": "WILCON V1",
+        "LastPresetName": "BELMONT DEPOT",
         "ColumnMappings": {
           "Barcode": "Barcode",
-          "PrintDescription": "Print Description",
+          "PrintDescription": "PrintDescription",
           "BasePrice": "BasePrice",
-          "Copies": "Quantity",
-          "RightLabel": "DateField"
+          "Copies": "Quantity"
         }
       },
       "WithoutWaveMapping": {
@@ -5571,5 +5570,5 @@
       }
     }
   },
-  "LastMappingType": "BELMONT DEPOT|WithoutWave"
+  "LastMappingType": "BELMONT DEPOT|WithWave"
 }
