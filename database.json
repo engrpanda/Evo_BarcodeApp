@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.2.0",
-  "LastUpdated": "2026-04-25T11:33:39.7362569\u002B08:00",
-  "LastSynced": "2026-04-25T11:32:20.5208183\u002B08:00",
+  "LastUpdated": "2026-04-25T11:35:59.3336520\u002B08:00",
+  "LastSynced": "2026-04-25T11:33:42.9949119\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -4656,12 +4656,13 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "CITI HARDWARE",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
-          "Copies": "Quantity"
+          "BasePrice": "BasePrice",
+          "Copies": "Quantity",
+          "Custom1": "ItemDescription"
         }
       }
     },
@@ -5570,5 +5571,5 @@
       }
     }
   },
-  "LastMappingType": "BELMONT DEPOT|WithWave"
+  "LastMappingType": "CITI HARDWARE|WithoutWave"
 }
