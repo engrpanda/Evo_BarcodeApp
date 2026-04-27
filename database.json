@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T10:54:14.7378369\u002B08:00",
-  "LastSynced": "2026-04-27T10:53:16.3553668\u002B08:00",
+  "LastUpdated": "2026-04-27T10:56:34.7033187\u002B08:00",
+  "LastSynced": "2026-04-27T10:54:22.3522668\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1258,11 +1258,11 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "FIXRITE HARDWARE",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
+          "BasePrice": "BasePrice",
           "Copies": "Quantity"
         }
       }
@@ -5801,5 +5801,5 @@
       }
     }
   },
-  "LastMappingType": "EXPO HOME DEPOT|WithWave"
+  "LastMappingType": "FIXRITE HARDWARE|WithoutWave"
 }
