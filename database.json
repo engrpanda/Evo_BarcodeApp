@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T10:36:40.2255751\u002B08:00",
-  "LastSynced": "2026-04-27T10:34:14.2700798\u002B08:00",
+  "LastUpdated": "2026-04-27T10:37:26.0344462\u002B08:00",
+  "LastSynced": "2026-04-27T10:37:02.4578226\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -4133,12 +4133,14 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "CW HOME DEPOT - PAMPANGA",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
-          "Copies": "Quantity"
+          "BasePrice": "BasePrice",
+          "Copies": "Quantity",
+          "Custom2": "Barcode",
+          "Custom4": "Barcode"
         }
       }
     },
@@ -5591,5 +5593,5 @@
       }
     }
   },
-  "LastMappingType": "CW HOME DEPOT - PAMPANGA|WithWave"
+  "LastMappingType": "CW HOME DEPOT - PAMPANGA|WithoutWave"
 }
