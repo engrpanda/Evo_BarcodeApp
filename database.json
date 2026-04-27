@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T11:46:26.7119776\u002B08:00",
-  "LastSynced": "2026-04-27T11:45:59.4899193\u002B08:00",
+  "LastUpdated": "2026-04-27T11:55:49.9085173\u002B08:00",
+  "LastSynced": "2026-04-27T11:46:34.3935144\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -2155,12 +2155,13 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "MAQUILING BUILDERS DEPOT",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
-          "Copies": "Quantity"
+          "BasePrice": "BasePrice",
+          "Copies": "Quantity",
+          "Custom1": "ItemDescription"
         }
       }
     },
@@ -5797,5 +5798,5 @@
       }
     }
   },
-  "LastMappingType": "LEYTE HOME DEPOT INC|WithWave"
+  "LastMappingType": "MAQUILING BUILDERS DEPOT|WithoutWave"
 }
