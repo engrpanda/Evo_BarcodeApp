@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T10:30:52.1046189\u002B08:00",
-  "LastSynced": "2026-04-27T10:26:10.1746794\u002B08:00",
+  "LastUpdated": "2026-04-27T10:31:57.1918902\u002B08:00",
+  "LastSynced": "2026-04-27T10:31:13.6648042\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -3767,12 +3767,14 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "CW HOME DEPOT - MANILA BAY",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
-          "Copies": "Quantity"
+          "BasePrice": "BasePrice",
+          "Copies": "Quantity",
+          "Custom2": "Barcode",
+          "Custom4": "Barcode"
         }
       }
     },
@@ -5585,5 +5587,5 @@
       }
     }
   },
-  "LastMappingType": "CW HOME DEPOT - MANILA BAY|WithWave"
+  "LastMappingType": "CW HOME DEPOT - MANILA BAY|WithoutWave"
 }
