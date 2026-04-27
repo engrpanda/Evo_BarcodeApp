@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T11:43:13.8319349\u002B08:00",
-  "LastSynced": "2026-04-27T11:42:39.4064766\u002B08:00",
+  "LastUpdated": "2026-04-27T11:45:51.0047301\u002B08:00",
+  "LastSynced": "2026-04-27T11:43:16.5716813\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1436,11 +1436,11 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "LEYTE HOME DEPOT INC",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
+          "BasePrice": "BasePrice",
           "Copies": "Quantity"
         }
       }
@@ -5798,5 +5798,5 @@
       }
     }
   },
-  "LastMappingType": "HOMEWORLD|WithWave"
+  "LastMappingType": "LEYTE HOME DEPOT INC|WithoutWave"
 }
