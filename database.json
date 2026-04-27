@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T13:02:38.4741536\u002B08:00",
-  "LastSynced": "2026-04-27T11:59:22.7451010\u002B08:00",
+  "LastUpdated": "2026-04-27T13:04:07.1659070\u002B08:00",
+  "LastSynced": "2026-04-27T13:02:41.5862414\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -2876,11 +2876,11 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "MC HOME DEPOT - EAS",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
+          "BasePrice": "BasePrice",
           "Copies": "Quantity"
         }
       }
@@ -5798,5 +5798,5 @@
       }
     }
   },
-  "LastMappingType": "MAQUILING BUILDERS DEPOT|WithWave"
+  "LastMappingType": "MC HOME DEPOT - EAS|WithoutWave"
 }
