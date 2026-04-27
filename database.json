@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T10:17:38.9913668\u002B08:00",
-  "LastSynced": "2026-04-27T10:16:49.2566752\u002B08:00",
+  "LastUpdated": "2026-04-27T10:26:07.4771483\u002B08:00",
+  "LastSynced": "2026-04-27T10:17:42.6327533\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -3584,12 +3584,14 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "CW HOME DEPOT - MAKATI",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
-          "Copies": "Quantity"
+          "BasePrice": "BasePrice",
+          "Copies": "Quantity",
+          "Custom2": "Barcode",
+          "Custom4": "Barcode"
         }
       }
     },
@@ -5582,5 +5584,5 @@
       }
     }
   },
-  "LastMappingType": "CW HOME DEPOT - MAKATI|WithWave"
+  "LastMappingType": "CW HOME DEPOT - MAKATI|WithoutWave"
 }
