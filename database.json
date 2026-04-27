@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T13:25:49.3446775\u002B08:00",
-  "LastSynced": "2026-04-27T13:25:04.9614613\u002B08:00",
+  "LastUpdated": "2026-04-27T13:26:27.2802663\u002B08:00",
+  "LastSynced": "2026-04-27T13:25:53.5690791\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -5406,13 +5406,13 @@
       "LastFormat": 128,
       "WithWaveMapping": {
         "Name": "WithWave",
-        "LastPresetName": "WILCON V1",
+        "LastPresetName": "SM HOME - KITCHENWARE",
         "ColumnMappings": {
           "Barcode": "Barcode",
-          "PrintDescription": "Print Description",
+          "PrintDescription": "PrintDescription",
           "BasePrice": "BasePrice",
           "Copies": "Quantity",
-          "RightLabel": "DateField"
+          "Custom4": "Barcode"
         }
       },
       "WithoutWaveMapping": {
@@ -5792,5 +5792,5 @@
       }
     }
   },
-  "LastMappingType": "SM HOME - KITCHENWARE|WithoutWave"
+  "LastMappingType": "SM HOME - KITCHENWARE|WithWave"
 }
