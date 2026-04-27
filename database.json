@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T11:24:04.2622623\u002B08:00",
-  "LastSynced": "2026-04-27T11:06:37.6714718\u002B08:00",
+  "LastUpdated": "2026-04-27T11:34:45.6414728\u002B08:00",
+  "LastSynced": "2026-04-27T11:30:45.9117352\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -170,7 +170,7 @@
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
+          "BasePrice": "BasePrice",
           "Copies": "Quantity"
         }
       },
@@ -5800,5 +5800,5 @@
       }
     }
   },
-  "LastMappingType": "CW HOME DEPOT - ALABANG|WithoutWave"
+  "LastMappingType": "HANDYMAN|WithWave"
 }
