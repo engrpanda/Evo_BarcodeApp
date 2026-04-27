@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T10:47:15.3538360\u002B08:00",
-  "LastSynced": "2026-04-27T10:45:07.0957299\u002B08:00",
+  "LastUpdated": "2026-04-27T10:48:32.4477164\u002B08:00",
+  "LastSynced": "2026-04-27T10:47:18.7101157\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -4886,11 +4886,11 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "ESTER PRIME CORP MACAPAGAL",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
+          "BasePrice": "BasePrice",
           "Copies": "Quantity"
         }
       }
@@ -5803,5 +5803,5 @@
       }
     }
   },
-  "LastMappingType": "CW HOME DEPOT SILANG V2|WithoutWave"
+  "LastMappingType": "ESTER PRIME CORP MACAPAGAL|WithoutWave"
 }
