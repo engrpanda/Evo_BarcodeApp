@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T13:26:27.2802663\u002B08:00",
-  "LastSynced": "2026-04-27T13:25:53.5690791\u002B08:00",
+  "LastUpdated": "2026-04-27T13:28:08.9443897\u002B08:00",
+  "LastSynced": "2026-04-27T13:26:30.3807884\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -543,7 +543,7 @@
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
+          "BasePrice": "BasePrice",
           "Copies": "Quantity"
         }
       }
@@ -5792,5 +5792,5 @@
       }
     }
   },
-  "LastMappingType": "SM HOME - KITCHENWARE|WithWave"
+  "LastMappingType": "TRUE VALUE|WithoutWave"
 }
