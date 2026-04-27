@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T13:25:01.7396761\u002B08:00",
-  "LastSynced": "2026-04-27T13:24:04.9840591\u002B08:00",
+  "LastUpdated": "2026-04-27T13:25:49.3446775\u002B08:00",
+  "LastSynced": "2026-04-27T13:25:04.9614613\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -5417,11 +5417,11 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "ACE HARDWARE",
+        "LastPresetName": "SM HOME - KITCHENWARE",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
+          "BasePrice": "BasePrice",
           "Copies": "Quantity",
           "Custom4": "Barcode"
         }
@@ -5792,5 +5792,5 @@
       }
     }
   },
-  "LastMappingType": "SM HOME - DECOR|WithWave"
+  "LastMappingType": "SM HOME - KITCHENWARE|WithoutWave"
 }
