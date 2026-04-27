@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T10:48:32.4477164\u002B08:00",
-  "LastSynced": "2026-04-27T10:47:18.7101157\u002B08:00",
+  "LastUpdated": "2026-04-27T10:49:15.9197277\u002B08:00",
+  "LastSynced": "2026-04-27T10:48:52.7401600\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -4875,13 +4875,12 @@
       "LastFormat": 128,
       "WithWaveMapping": {
         "Name": "WithWave",
-        "LastPresetName": "WILCON V1",
+        "LastPresetName": "ESTER PRIME CORP MACAPAGAL",
         "ColumnMappings": {
           "Barcode": "Barcode",
-          "PrintDescription": "Print Description",
+          "PrintDescription": "PrintDescription",
           "BasePrice": "BasePrice",
-          "Copies": "Quantity",
-          "RightLabel": "DateField"
+          "Copies": "Quantity"
         }
       },
       "WithoutWaveMapping": {
@@ -5803,5 +5802,5 @@
       }
     }
   },
-  "LastMappingType": "ESTER PRIME CORP MACAPAGAL|WithoutWave"
+  "LastMappingType": "ESTER PRIME CORP MACAPAGAL|WithWave"
 }
