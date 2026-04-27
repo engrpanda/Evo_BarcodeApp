@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T10:45:03.8433770\u002B08:00",
-  "LastSynced": "2026-04-27T10:42:59.7664300\u002B08:00",
+  "LastUpdated": "2026-04-27T10:47:15.3538360\u002B08:00",
+  "LastSynced": "2026-04-27T10:45:07.0957299\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -346,6 +346,18 @@
       "LastFormat": 16,
       "WithWaveMapping": {
         "Name": "WithWave",
+        "LastPresetName": "CW HOME DEPOT SILANG V2",
+        "ColumnMappings": {
+          "Barcode": "Barcode",
+          "PrintDescription": "PrintDescription",
+          "BasePrice": "BasePrice",
+          "Copies": "Quantity",
+          "Custom2": "Barcode",
+          "Custom4": "Barcode"
+        }
+      },
+      "WithoutWaveMapping": {
+        "Name": "WithoutWave",
         "LastPresetName": "CW HOME DEPOT SILANG V2",
         "ColumnMappings": {
           "Barcode": "Barcode",
@@ -5791,5 +5803,5 @@
       }
     }
   },
-  "LastMappingType": "CW HOME DEPOT SILANG V2|WithWave"
+  "LastMappingType": "CW HOME DEPOT SILANG V2|WithoutWave"
 }
