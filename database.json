@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "AppVersion": "1.2.0",
-  "LastUpdated": "2026-04-25T11:53:54.6337194\u002B08:00",
-  "LastSynced": "2026-04-25T11:52:37.4193229\u002B08:00",
+  "AppVersion": "1.4.0",
+  "LastUpdated": "2026-04-27T10:04:10.6695429\u002B08:00",
+  "LastSynced": "2026-04-27T09:55:08.6331223\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -3024,23 +3024,25 @@
       "LastFormat": 128,
       "WithWaveMapping": {
         "Name": "WithWave",
-        "LastPresetName": "WILCON V1",
+        "LastPresetName": "CW HOME DEPOT - ALABANG",
         "ColumnMappings": {
           "Barcode": "Barcode",
-          "PrintDescription": "Print Description",
+          "PrintDescription": "PrintDescription",
           "BasePrice": "BasePrice",
           "Copies": "Quantity",
-          "RightLabel": "DateField"
+          "Custom2": "Barcode",
+          "Custom4": "Barcode"
         }
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "CW HOME DEPOT - ALABANG",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
-          "Copies": "Quantity"
+          "Copies": "Quantity",
+          "Custom2": "Barcode",
+          "Custom4": "Barcode"
         }
       }
     },
@@ -3215,12 +3217,14 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "CW HOME DEPOT - BALINTAWAK",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
-          "Copies": "Quantity"
+          "BasePrice": "BasePrice",
+          "Copies": "Quantity",
+          "Custom2": "Barcode",
+          "Custom4": "Barcode"
         }
       }
     },
@@ -5570,5 +5574,5 @@
       }
     }
   },
-  "LastMappingType": "CITI PLUS HOME DEPOT|WithWave"
+  "LastMappingType": "CW HOME DEPOT - BALINTAWAK|WithoutWave"
 }
