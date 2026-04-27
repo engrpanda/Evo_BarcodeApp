@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T13:15:06.8993686\u002B08:00",
-  "LastSynced": "2026-04-27T13:13:31.6163841\u002B08:00",
+  "LastUpdated": "2026-04-27T13:15:48.3225145\u002B08:00",
+  "LastSynced": "2026-04-27T13:15:09.7359245\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1784,13 +1784,12 @@
       "LastFormat": 128,
       "WithWaveMapping": {
         "Name": "WithWave",
-        "LastPresetName": "WILCON V1",
+        "LastPresetName": "SAVERS HOME DEPOT",
         "ColumnMappings": {
           "Barcode": "Barcode",
-          "PrintDescription": "Print Description",
+          "PrintDescription": "PrintDescription",
           "BasePrice": "BasePrice",
-          "Copies": "Quantity",
-          "RightLabel": "DateField"
+          "Copies": "Quantity"
         }
       },
       "WithoutWaveMapping": {
@@ -5793,5 +5792,5 @@
       }
     }
   },
-  "LastMappingType": "SAVERS HOME DEPOT|WithoutWave"
+  "LastMappingType": "SAVERS HOME DEPOT|WithWave"
 }
