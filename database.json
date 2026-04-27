@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T11:04:28.2459031\u002B08:00",
-  "LastSynced": "2026-04-27T11:04:23.7215508\u002B08:00",
+  "LastUpdated": "2026-04-27T11:05:03.4822168\u002B08:00",
+  "LastSynced": "2026-04-27T11:04:33.9955752\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -177,11 +177,11 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "TRUE VALUE",
+        "LastPresetName": "HANDYMAN",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
+          "BasePrice": "BasePrice",
           "Copies": "Quantity"
         }
       }
@@ -5800,5 +5800,5 @@
       }
     }
   },
-  "LastMappingType": "FIXRITE HARDWARE|WithWave"
+  "LastMappingType": "HANDYMAN|WithoutWave"
 }
