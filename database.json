@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T11:34:45.6414728\u002B08:00",
-  "LastSynced": "2026-04-27T11:30:45.9117352\u002B08:00",
+  "LastUpdated": "2026-04-27T11:42:36.4737852\u002B08:00",
+  "LastSynced": "2026-04-27T11:34:48.8879602\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -5063,13 +5063,12 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "ACE HARDWARE",
+        "LastPresetName": "HOMEWORLD",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
-          "Copies": "Quantity",
-          "Custom4": "Barcode"
+          "BasePrice": "BasePrice",
+          "Copies": "Quantity"
         }
       }
     },
@@ -5800,5 +5799,5 @@
       }
     }
   },
-  "LastMappingType": "HANDYMAN|WithWave"
+  "LastMappingType": "HOMEWORLD|WithoutWave"
 }
