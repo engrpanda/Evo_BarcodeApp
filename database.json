@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T13:21:31.5162872\u002B08:00",
-  "LastSynced": "2026-04-27T13:21:27.6656073\u002B08:00",
+  "LastUpdated": "2026-04-27T13:22:42.7137697\u002B08:00",
+  "LastSynced": "2026-04-27T13:21:35.2967494\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -5279,7 +5279,7 @@
       "PriceFontFamily": "Arial",
       "PriceBold": true,
       "PriceFill": 0,
-      "PriceX": 36,
+      "PriceX": 87,
       "PriceY": 249,
       "PriceVisible": true,
       "CompanyFontFamily": "Arial",
@@ -5401,7 +5401,7 @@
       "Custom1UseDateNow": false,
       "Custom2UseDateNow": true,
       "Custom3UseDateNow": false,
-      "PriceFormat": 18,
+      "PriceFormat": 10,
       "FormatIndexesV2": true,
       "LastFormat": 128,
       "WithWaveMapping": {
