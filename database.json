@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T10:56:34.7033187\u002B08:00",
-  "LastSynced": "2026-04-27T10:54:22.3522668\u002B08:00",
+  "LastUpdated": "2026-04-27T10:57:07.3012372\u002B08:00",
+  "LastSynced": "2026-04-27T10:56:38.3520643\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1247,13 +1247,12 @@
       "LastFormat": 128,
       "WithWaveMapping": {
         "Name": "WithWave",
-        "LastPresetName": "WILCON V1",
+        "LastPresetName": "FIXRITE HARDWARE",
         "ColumnMappings": {
           "Barcode": "Barcode",
-          "PrintDescription": "Print Description",
+          "PrintDescription": "PrintDescription",
           "BasePrice": "BasePrice",
-          "Copies": "Quantity",
-          "RightLabel": "DateField"
+          "Copies": "Quantity"
         }
       },
       "WithoutWaveMapping": {
@@ -5801,5 +5800,5 @@
       }
     }
   },
-  "LastMappingType": "FIXRITE HARDWARE|WithoutWave"
+  "LastMappingType": "FIXRITE HARDWARE|WithWave"
 }
