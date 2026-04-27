@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T10:51:04.7204515\u002B08:00",
-  "LastSynced": "2026-04-27T10:49:34.6897191\u002B08:00",
+  "LastUpdated": "2026-04-27T10:53:13.9089318\u002B08:00",
+  "LastSynced": "2026-04-27T10:51:07.9144991\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -1979,11 +1979,11 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "EXPO HOME DEPOT",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
+          "BasePrice": "BasePrice",
           "Copies": "Quantity"
         }
       }
@@ -5802,5 +5802,5 @@
       }
     }
   },
-  "LastMappingType": "ESTER PRIME CORP MACAPAGAL|WithWave"
+  "LastMappingType": "EXPO HOME DEPOT|WithoutWave"
 }
