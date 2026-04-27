@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T10:33:20.7504892\u002B08:00",
-  "LastSynced": "2026-04-27T10:32:00.5826928\u002B08:00",
+  "LastUpdated": "2026-04-27T10:34:10.5083560\u002B08:00",
+  "LastSynced": "2026-04-27T10:33:24.0755810\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -3950,12 +3950,14 @@
       },
       "WithoutWaveMapping": {
         "Name": "WithoutWave",
-        "LastPresetName": "WILCON DEPOT INC",
+        "LastPresetName": "CW HOME DEPOT - ORTIGAS",
         "ColumnMappings": {
           "Barcode": "Barcode",
           "PrintDescription": "PrintDescription",
-          "BasePrice": "Base Price(SRP)*",
-          "Copies": "Quantity"
+          "BasePrice": "BasePrice",
+          "Copies": "Quantity",
+          "Custom2": "Barcode",
+          "Custom4": "Barcode"
         }
       }
     },
@@ -5588,5 +5590,5 @@
       }
     }
   },
-  "LastMappingType": "CW HOME DEPOT - ORTIGAS|WithWave"
+  "LastMappingType": "CW HOME DEPOT - ORTIGAS|WithoutWave"
 }
