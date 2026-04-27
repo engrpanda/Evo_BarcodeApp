@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.4.0",
-  "LastUpdated": "2026-04-27T13:04:07.1659070\u002B08:00",
-  "LastSynced": "2026-04-27T13:02:41.5862414\u002B08:00",
+  "LastUpdated": "2026-04-27T13:04:31.2900217\u002B08:00",
+  "LastSynced": "2026-04-27T13:04:10.3556845\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -2865,13 +2865,12 @@
       "LastFormat": 128,
       "WithWaveMapping": {
         "Name": "WithWave",
-        "LastPresetName": "WILCON V1",
+        "LastPresetName": "MC HOME DEPOT - EAS",
         "ColumnMappings": {
           "Barcode": "Barcode",
-          "PrintDescription": "Print Description",
+          "PrintDescription": "PrintDescription",
           "BasePrice": "BasePrice",
-          "Copies": "Quantity",
-          "RightLabel": "DateField"
+          "Copies": "Quantity"
         }
       },
       "WithoutWaveMapping": {
@@ -5798,5 +5797,5 @@
       }
     }
   },
-  "LastMappingType": "MC HOME DEPOT - EAS|WithoutWave"
+  "LastMappingType": "MC HOME DEPOT - EAS|WithWave"
 }
