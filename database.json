@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.7.0",
-  "LastUpdated": "2026-05-20T14:44:18.1847864\u002B08:00",
-  "LastSynced": "2026-05-20T14:37:51.5986796\u002B08:00",
+  "LastUpdated": "2026-05-20T16:15:50.8456616\u002B08:00",
+  "LastSynced": "2026-05-20T16:06:33.4100656\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -5601,7 +5601,7 @@
           "PrintDescription": "PrintDescription",
           "BasePrice": "BasePrice",
           "Copies": "Quantity",
-          "Custom1": "ItemDescription"
+          "Custom1": "Description"
         }
       }
     },
@@ -5789,5 +5789,5 @@
       }
     }
   },
-  "LastMappingType": "CW HOME DEPOT SILANG V2|WithWave"
+  "LastMappingType": "WILCON DEPOT INC|WithoutWave"
 }
