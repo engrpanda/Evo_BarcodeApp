@@ -1,8 +1,8 @@
 {
   "Version": 1,
   "AppVersion": "1.9.0",
-  "LastUpdated": "2026-05-29T16:37:46.0927709\u002B08:00",
-  "LastSynced": "2026-05-29T16:36:38.1665898\u002B08:00",
+  "LastUpdated": "2026-06-02T13:40:49.3143847\u002B08:00",
+  "LastSynced": "2026-06-02T11:44:22.2419034\u002B08:00",
   "RemoteUrl": "https://github.com/engrpanda/Evo_BarcodeApp",
   "AutoSyncEnabled": true,
   "Presets": {
@@ -5573,7 +5573,7 @@
       "HeightInText": "1",
       "CompanyFontSize": 17,
       "HumanFontSize": 14,
-      "CodeFontSize": 14,
+      "CodeFontSize": 13,
       "RightFontSize": 11,
       "LeftFontSize": 11,
       "BarcodeWidthPercent": 0.76,
